@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0E07\u0E32\u0E19\\GPAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|d:\\\u0E07\u0E32\u0E19\\gpax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|d:\\\u0E07\u0E32\u0E19\\gpax\\gpagrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|solutionrelative:gpagrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|D:\\\u0E07\u0E32\u0E19\\GPAX\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55E39064-A12F-4C38-ABF7-FB70A0651D2C}|GPAX.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\GPAX\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\GPAX\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:52:27.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\GPAX\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\GPAX\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:57:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gpagrade.cs",
+              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\GPAX\\gpagrade.cs",
+              "RelativeDocumentMoniker": "gpagrade.cs",
+              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\GPAX\\gpagrade.cs",
+              "RelativeToolTip": "gpagrade.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:56:36.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

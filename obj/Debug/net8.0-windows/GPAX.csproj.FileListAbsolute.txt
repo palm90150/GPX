@@ -1,0 +1,16 @@
+D:\งาน\GPAX\bin\Debug\net8.0-windows\GPAX.exe
+D:\งาน\GPAX\bin\Debug\net8.0-windows\GPAX.deps.json
+D:\งาน\GPAX\bin\Debug\net8.0-windows\GPAX.runtimeconfig.json
+D:\งาน\GPAX\bin\Debug\net8.0-windows\GPAX.dll
+D:\งาน\GPAX\bin\Debug\net8.0-windows\GPAX.pdb
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.Form1.resources
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.csproj.GenerateResource.cache
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.AssemblyInfoInputs.cache
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.AssemblyInfo.cs
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.csproj.CoreCompileInputs.cache
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.dll
+D:\งาน\GPAX\obj\Debug\net8.0-windows\refint\GPAX.dll
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.pdb
+D:\งาน\GPAX\obj\Debug\net8.0-windows\GPAX.genruntimeconfig.cache
+D:\งาน\GPAX\obj\Debug\net8.0-windows\ref\GPAX.dll
